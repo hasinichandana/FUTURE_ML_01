@@ -151,6 +151,10 @@ Forecast visualizations
 ## 30-Day Future Forecast
 
 ![Future Forecast](images/future_forecast.png)
+
+## Monthly Sales Trend
+
+![Graph Name](images/graph_name.png)
 Generated Images:
 
 forecast.png
