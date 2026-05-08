@@ -116,7 +116,7 @@ sales-forecasting-project/
 ## Clone Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/hasinichandana/FUTURE_ML_01.git
 ```
 
 ## Install Required Libraries
@@ -178,7 +178,7 @@ RMSE penalizes larger forecasting errors more heavily.
 
 RMSE = √ [(1/n) * Σ (Actual - Predicted)²]
 
-# Project Result:
+Project Result:
 
 RMSE: 2861.3716
 
