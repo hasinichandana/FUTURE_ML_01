@@ -155,6 +155,7 @@ Forecast visualizations
 ## Monthly Sales Trend
 
 ![Graph Name](images/graph_name.png)
+
 Generated Images:
 
 forecast.png
