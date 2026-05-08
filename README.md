@@ -136,8 +136,8 @@ python main.py
 
 The project generates:
 
-Sales forecasting results
-Evaluation metrics
+Sales forecasting results,
+Evaluation metrics,
 Forecast visualizations
 
 ---
@@ -158,9 +158,12 @@ Forecast visualizations
 
 Generated Images:
 
-forecast.png
-future_forecast.png
-Model Evaluation Results
+forecast.png,
+future_forecast.png,
+graph_name.png
+
+Model Evaluation Results 
+
 MAE (Mean Absolute Error)
 
 MAE measures the average difference between predicted sales and actual sales.
@@ -187,11 +190,11 @@ RMSE: 2861.3716
 
 The forecasting system helps businesses:
 
-predict future demand
-optimize inventory management
-improve operational planning
-reduce unnecessary stock costs
-prepare staffing requirements during high-demand periods
+predict future demand,
+optimize inventory management,
+improve operational planning,
+reduce unnecessary stock costs,
+prepare staffing requirements during high-demand periods,
 
 The model successfully identifies overall sales trends and can support business decision-making.
 
@@ -199,10 +202,11 @@ The model successfully identifies overall sales trends and can support business 
 
 Possible future enhancements:
 
-Use advanced forecasting models like ARIMA or Prophet
-Add seasonal trend analysis
-Deploy as a web application
-Build an interactive dashboard using Power BI or Tableau
+Use advanced forecasting models like ARIMA or Prophet,
+Add seasonal trend analysis,
+Deploy as a web application,
+Build an interactive dashboard using Power BI or Tableau,
+
 # Conclusion
 
 This project demonstrates how Machine Learning can be applied to solve real business forecasting problems.
