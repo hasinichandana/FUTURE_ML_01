@@ -116,7 +116,7 @@ sales-forecasting-project/
 ## Clone Repository
 
 ```bash
-git clone <https://github.com/hasinichandana/FUTURE_ML_01>
+git clone https://github.com/hasinichandana/FUTURE_ML_01.git
 ```
 
 ## Install Required Libraries
