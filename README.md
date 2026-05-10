@@ -96,8 +96,11 @@ Generated business-friendly visualizations:
 
 # Project Structure
 
-sales-forecasting-project/
+# Project Structure
 
+```text
+FUTURE_ML_01/
+│
 ├── data/
 │   └── sales.csv
 │
@@ -108,7 +111,7 @@ sales-forecasting-project/
 ├── main.py
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 # Installation
